@@ -45,11 +45,7 @@ python main.py
 
 ## Contributing
 
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request. For detailed contribution guidelines, see the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## Acknowledgements
 
